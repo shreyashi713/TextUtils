@@ -35,9 +35,6 @@ export default function Navbar(props) { //initiallizing props as well else throw
             {/* <Link className="nav-link" to="/about">{props.aboutText}</Link> */}
              {/* About=>Initially@props... */}
           {/* </li> */}
-          
-        
-
         {/* giving text-light (similarly texr-dark) class below which is given to get any text white color */}
         {/* <div className="form-check form-switch text-dark">  below is the way of text color of button depending on mode => we read it as if props.mode is light (?means chacking) use dark else light 
         ternary operator heh */}
