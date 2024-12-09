@@ -36,15 +36,7 @@ export default function Navbar(props) { //initiallizing props as well else throw
              {/* About=>Initially@props... */}
           {/* </li> */}
           
-        // </ul>
-        // <form className="d-flex" role="search">
-        //   <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-          
-        //   {/* <button className="btn btn-outline-success" type="submit">Search</button> (success=>green color*/}
-
-        //   <button className="btn btn-outline-primary" type="submit">Search</button> 
-        //   {/* primary=blue , danger=red color in bootstrap if don't want outline remove it just */}
-        // </form>
+        
 
         {/* giving text-light (similarly texr-dark) class below which is given to get any text white color */}
         {/* <div className="form-check form-switch text-dark">  below is the way of text color of button depending on mode => we read it as if props.mode is light (?means chacking) use dark else light 
